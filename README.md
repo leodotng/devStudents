@@ -24,6 +24,9 @@ npm run test
 ```
 npm run lint
 ```
+### UI Component Vuesax  
+
+[Vuesax](https://lusaxweb.github.io/vuesax/development/#quick-start-cdn)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
