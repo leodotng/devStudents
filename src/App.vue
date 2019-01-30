@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Vue logo" id="logo" src="./assets/logo.png">
     <HelloWorld msg="devStudents.org"/>
     <vs-button color="primary" type="filled">Primary</vs-button>
     <vs-button color="success" type="filled">Success</vs-button>
@@ -32,5 +32,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+#logo {
+  height: 100px;
+  width: 500px;
 }
 </style>
